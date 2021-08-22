@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "103203792682",
+    "firebase_url": "https://flutteruberclone-70992-default-rtdb.firebaseio.com",
+    "project_id": "flutteruberclone-70992",
+    "storage_bucket": "flutteruberclone-70992.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103203792682:android:97a55bdb2aa0828b042053",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103203792682-6ursv6igti2l7fkrudu2s8niforjhq51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKN9i8uFiUWlRwTp035Q7yvgvpT8wWyKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103203792682-6ursv6igti2l7fkrudu2s8niforjhq51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
