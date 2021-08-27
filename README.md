@@ -1,6 +1,8 @@
-# myfirstapp
+# Uber Clone App
 
-A new Flutter project.
+Uber clone app is my very first flutter project I made it on my three days challenge where people can order robots instead of uber cars 🦾.
+
+Functionalities: Phone number authentication and google maps using firebase
 
 ## Getting Started
 
